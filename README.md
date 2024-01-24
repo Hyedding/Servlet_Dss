@@ -26,11 +26,15 @@
 
 **좋아요** - 좋아요 버튼 추가 후 찜 기능 
 
-![image](https://github.com/Hyedding/Servlet_Dss/assets/155518059/ec48c579-235c-4a30-ae3e-79a3ede9a7f9)
+![image](https://github.com/Hyedding/Servlet_Dss/assets/155518059/33ba7d71-407a-4a37-8609-c70ff3b6312d)
 
-![image](https://github.com/Hyedding/Servlet_Dss/assets/155518059/6b50e684-9e71-49bd-a175-df0ae82e31aa)
+![image](https://github.com/Hyedding/Servlet_Dss/assets/155518059/b0c23e60-d975-4585-9441-d97f91250441)
+
+![image](https://github.com/Hyedding/Servlet_Dss/assets/155518059/46116c27-5457-4cdd-8867-d806a2c94146)
+
 
 # 데이터베이스
 
-![image](https://github.com/Hyedding/Servlet_Dss/assets/155518059/380e906e-72c3-4a25-9668-67a36ba0a267)
+![image](https://github.com/Hyedding/Servlet_Dss/assets/155518059/7f326ecb-d320-4c11-980b-eac393e5de2f)
+
 
